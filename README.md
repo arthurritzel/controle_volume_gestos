@@ -1,4 +1,4 @@
-# Hand Recognition and System Volume Control
+# Hand Recognition with System Volume Control
 
 Este é um sistema em Python que utiliza a biblioteca `mediapipe` para o reconhecimento de mãos e o controle do volume do sistema com gestos. O programa captura o vídeo da webcam, identifica a mão e ajusta o volume do sistema com base nos movimentos da mão.
 
