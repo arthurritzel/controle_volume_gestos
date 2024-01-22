@@ -6,7 +6,7 @@ Este é um sistema em Python que utiliza a biblioteca `mediapipe` para o reconhe
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - Mediapipe (`pip install mediapipe`)
-- Pycaw (`pip install pycaw`) - Somente para sistemas Windows
+- Pycaw (`pip install pycaw`)
 
 Certifique-se de configurar a webcam corretamente e ajustar a variável `video` para a porta da sua webcam.
 
