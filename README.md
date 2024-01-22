@@ -12,9 +12,10 @@ Certifique-se de configurar a webcam corretamente e ajustar a variável `video` 
 
 ## Como Usar
 1. Execute o script `main.py`.
-2. Posicione sua mão em frente à webcam.
-3. Posicione sua mão em forma de pinça, então aproxime e afastes o dedo indicador do dedão.
+2. Leve sua mão em frente à webcam.
+3. Posicione sua mão em forma de pinça, então aproxime e afaste o dedo indicador do dedão.
 4. O ajuste de volume será refletido no sistema operacional.
+5. Enquanto a mão estiver totalmente aberta o sistema nao realiza o ajuste de volume
 
 ## Funcionalidades
 - Reconhecimento de mãos usando a biblioteca Mediapipe.
